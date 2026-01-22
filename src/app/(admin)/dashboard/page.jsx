@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>contact page</div>
+    <div>admin dashboard page</div>
   )
 }
 
